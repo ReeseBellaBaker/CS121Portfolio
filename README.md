@@ -1,0 +1,8 @@
+| Number | Item | Description  |
+| ------ | ---- | ------------ |
+| R1 | [Account Class](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Account.java) | Account Class in Project 3 |
+| R2 | [Bank Class](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Account.java](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Bank.java)) | Bank Class in Project 3 |
+| R3 | [Customer Class](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Account.java](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Bank.java)](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Customer.java)) | Customer Class in Project 3 | 
+| R4 | [Main Class](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Account.java](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Bank.java)](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Customer.java)](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Main.java)) | Main Class in Project 3 |
+| R5 | [Menu Class](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Account.java](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Bank.java)](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Customer.java)](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Main.java)](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Menu.java)) | Menu Class in Project 3 |
+| R6 | [Savings Account Class]([https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/Account.java](https://github.com/ReeseBellaBaker/CS121Portfolio/blob/master/src/SavingsAccount.java)) | Savings Account Class in Project 3 |
